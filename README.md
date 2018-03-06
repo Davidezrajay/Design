@@ -57,6 +57,6 @@
   [Tree Marker Beautified by Sara](https://github.com/Greenstand/Design_Assets/blob/master/Tree%20Marker.png)
 
 ## Images
-  [Home Screen Photo](https://github.com/Greenstand/Design_Assets/blob/master/Baby%20Tree%20Photo.jpg
+  [Home Screen Photo](https://github.com/Greenstand/Design_Assets/blob/master/Baby%20Tree%20Photo.jpg)
 
   [Drive Photos](https://drive.google.com/drive/folders/0B2vux3gkq42OfkZZWG9QT094ZDBKYmVQalgteDRBZzFSQ083ZjdiSzU3U3JiVXpzcFIzSUU?usp=sharing)
