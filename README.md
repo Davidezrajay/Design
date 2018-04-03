@@ -1,30 +1,34 @@
 # Color Code:
-  Buttons #37a511 (Green)
 
-  Text #56320a (Brown)
+green 1: 65744e
+green 2: 7d8b53
+green 3: c6d174
+beige: f1eedb
+brown: 5d4a4a
 
-  Text Black 
-
-  Back Ground white
 
 ## Font
   Montserrat
 
 ## Website
 
-* As of 03/06/2018, this site needs more white space, and needs strange fount removed.
+* As of 03/06/2018
   
     Live at http://GreenStand.org
 
-* Nicer site however this second site currently has limited support.
+* This second site currently has limited support.
 
     Prototype at http://greenstand.treetracker.org
 
 ## Webmap 
 
-* Live at http://greenstand.org/the-treetracker/
+* http://Treetracker.org
+
+* http://greenstand.org/the-treetracker/
 
 * Prototype version with tree markers http://greenstand.treetracker.org
+
+
 
 ## App 
 
