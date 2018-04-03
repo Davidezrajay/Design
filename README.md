@@ -1,10 +1,10 @@
 # Color Code:
 
-green 1: 65744e
-green 2: 7d8b53
-green 3: c6d174
-beige: f1eedb
-brown: 5d4a4a
+* green 1: 65744e
+* green 2: 7d8b53
+* green 3: c6d174
+* beige: f1eedb
+* brown: 5d4a4a
 
 
 ## Font
