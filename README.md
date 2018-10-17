@@ -12,13 +12,10 @@
 
 ## Website
 
-* As of 03/06/2018
+* As of 10/2018
   
     Live at http://GreenStand.org
 
-* This second site currently has limited support.
-
-    Prototype at http://greenstand.treetracker.org
 
 ## Webmap 
 
@@ -26,11 +23,9 @@
 
 * http://greenstand.org/the-treetracker/
 
-* Prototype version with tree markers http://greenstand.treetracker.org
 
 
-
-## App 
+## App Screen Shots (Outdated 10/16/2018)
 
   App [Splash Screen](https://github.com/Greenstand/Design_Assets/blob/master/App%20Splash%20Screen%20(V%201.1.5).png)
 
@@ -43,14 +38,13 @@
   App [About Page](https://github.com/Greenstand/Design_Assets/blob/master/App%20About%20Page%20(1.1.6).png)
 
 
-## Logo
-  [New Logo](https://github.com/Greenstand/Design_Assets/blob/master/Logo.jpg) Needs Refinement
+## Logo (Outdated 10/16/2018)
+  [Old Logo](https://github.com/Greenstand/Design_Assets/blob/master/Logo.jpg) Needs Refinement
 
   [Old Logo](https://github.com/Greenstand/Design_Assets/blob/master/Old%20Logo.jpg) Too flimsy
 
-  [Terrible File of Logo Prototypes](https://drive.google.com/drive/folders/0B2vux3gkq42OfkNoSTBGa3k3bklCRjJkWXBzQlNnb21YTktWemVUbVVtU2UwUUVTUEZVb0E?usp=sharing)
 
-## Diagrams
+## Diagrams 
 
   [Tree Planting Flow Diagram](https://github.com/Greenstand/Design_Assets/blob/master/Tree-Planting%20Flow%20Diagram.png)
 
@@ -64,4 +58,4 @@
 ## Images
   [Home Screen Photo](https://github.com/Greenstand/Design_Assets/blob/master/Baby%20Tree%20Photo.jpg)
 
-  [Drive Photos](https://drive.google.com/drive/folders/0B2vux3gkq42OfkZZWG9QT094ZDBKYmVQalgteDRBZzFSQ083ZjdiSzU3U3JiVXpzcFIzSUU?usp=sharing)
+
