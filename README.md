@@ -24,26 +24,6 @@
 * http://greenstand.org/the-treetracker/
 
 
-
-## App Screen Shots (Outdated 10/16/2018)
-
-  App [Splash Screen](https://github.com/Greenstand/Design_Assets/blob/master/App%20Splash%20Screen%20(V%201.1.5).png)
-
-  App [Map Page](https://github.com/Greenstand/Design_Assets/blob/master/App%20Map%20Page%20(v1.1.5%2C19).png)
-
-  App [Data Page}(https://github.com/Greenstand/Design_Assets/blob/master/App%20Data%20Page%20(V%201.1.5%20%2C19).png)
-
-  App [Settings Page](https://github.com/Greenstand/Design_Assets/blob/master/App%20Settings%20Page%20(1.1.5%2C19).png) This page is currently removed.
-
-  App [About Page](https://github.com/Greenstand/Design_Assets/blob/master/App%20About%20Page%20(1.1.6).png)
-
-
-## Logo (Outdated 10/16/2018)
-  [Old Logo](https://github.com/Greenstand/Design_Assets/blob/master/Logo.jpg) Needs Refinement
-
-  [Old Logo](https://github.com/Greenstand/Design_Assets/blob/master/Old%20Logo.jpg) Too flimsy
-
-
 ## Diagrams 
 
   [Tree Planting Flow Diagram](https://github.com/Greenstand/Design_Assets/blob/master/Tree-Planting%20Flow%20Diagram.png)
